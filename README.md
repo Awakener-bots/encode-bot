@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Advanced+Encoder+Bot" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=32&pause=1200&color=00BFFF&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Advanced+Encoder+Bot;%E2%9A%A1+Awakeners+Bots" alt="Typing Animation" />
 </p>
 
 # 🎬 VideoEncoder Bot
