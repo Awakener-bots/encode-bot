@@ -78,7 +78,7 @@ EVERYONE_CHATS=authorized_group_ids
 ### 1️⃣ ᴄʟᴏɴᴇ ʀᴇᴘᴏ
 
 ```bash
-git clone https://github.com/KunalG932/encode-bot.git
+git clone https://github.com/Awakener-bots/encode-bot.git
 cd encode-bot
 ```
 
