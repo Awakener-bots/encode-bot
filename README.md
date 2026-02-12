@@ -7,7 +7,6 @@
 </p>
 
 # 🎬 VideoEncoder Bot
-# 🎬 VideoEncoder Bot
 
 A powerful and efficient Telegram bot for encoding, compressing, and optimizing videos using **FFmpeg**.
 
