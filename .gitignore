@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+config.env
+VideoEncoder/config.env
+
+# Session files
+*.session
+*.session-journal
+
+# Directories
+VideoEncoder/downloads/
+VideoEncoder/encodes/
+
+# Logs
+logs.txt
+VideoEncoder/utils/extras/logs.txt
+*.log
+start_log.txt
+
+# Databases
+*.db
+*.sqlite
+
+# Local IDE folders
+.vscode/
+.idea/
+
+# Google API Credentials (NEVER commit these!)
+credentials.json
+token.pickle
+client_secret*.json
