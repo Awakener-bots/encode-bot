@@ -1,3 +1,19 @@
+# ===============================================================
+#  🎬 VideoEncoder Bot
+#
+#  🚀 Advanced Encoder Bot
+#  ⚡ Developed by Kunal
+#  🛠 Maintained by Awakeners Bots
+#
+#  🔗 GitHub  : https://github.com/KunalG932
+#  🔗 Telegram: https://t.me/Awakeners_Bots
+#
+#  ⚠️  Do not remove this credit header.
+#  Unauthorized removal of credits is strictly prohibited.
+#
+#  © 2026 Kunal & Awakeners Bots. All Rights Reserved.
+# ===============================================================
+
 import dns.resolver
 from pyrogram import idle
 from . import app
@@ -62,3 +78,19 @@ async def main():
 
 if __name__ == "__main__":
     app.loop.run_until_complete(main())
+
+# ===============================================================
+#  🎬 VideoEncoder Bot
+#
+#  🚀 Advanced Encoder Bot
+#  ⚡ Developed by Kunal
+#  🛠 Maintained by Awakeners Bots
+#
+#  🔗 GitHub  : https://github.com/KunalG932
+#  🔗 Telegram: https://t.me/Awakeners_Bots
+#
+#  ⚠️  Do not remove this credit header.
+#  Unauthorized removal of credits is strictly prohibited.
+#
+#  © 2026 Kunal & Awakeners Bots. All Rights Reserved.
+# ===============================================================
